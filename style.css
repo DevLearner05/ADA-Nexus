@@ -1482,6 +1482,10 @@ img {
   margin-bottom: 22px;
 }
 
+.info-row:last-child {
+  margin-bottom: 0;
+}
+
 .info-icon {
   width: 42px;
   height: 42px;
